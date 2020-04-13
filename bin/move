@@ -11,6 +11,10 @@ display_board(board)
 input=gets.strip
 
 
+move(board, index, char="X")
+display_board(board)
+
+  
 
   
 
